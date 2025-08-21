@@ -392,7 +392,7 @@ ColorTheme theme[] =
     "PCG",
     0x0000, // bg
     0xABFF, // text
-    0xD69A, // text_muted
+    0xEEDF, // text_muted
     0xF800, // text_warn
     0xD69A, // smeter_icon
     0x07E0, // smeter_bar
@@ -402,7 +402,7 @@ ColorTheme theme[] =
     0xD69A, // stereo_icon
     0xF800, // rf_icon
     0x07E0, // rf_icon_conn
-    0xFFFF, // batt_voltage
+    0xEEDF, // batt_voltage
     0xFFFF, // batt_border
     0x07E0, // batt_full
     0xF800, // batt_low
@@ -418,17 +418,17 @@ ColorTheme theme[] =
     0xBEDF, // box_off_text
     0x0000, // menu_bg
     0xF800, // menu_border
-    0xFFFF, // menu_hdr
+    0xABFF, // menu_hdr
     0xBEDF, // menu_item
     0x105B, // menu_hl_bg
     0xBEDF, // menu_hl_text
     0xBEDF, // menu_param
-    0xFFFF, // freq_text
+    0xEEDF, // freq_text
     0xD69A, // funit_text
     0xF800, // freq_hl
     0xFFE0, // freq_hl_sel
     0xD69A, // rds_text
-    0xFFFF, // scale_text
+    0xEEDF, // scale_text
     0xF800, // scale_pointer
     0xC638, // scale_line
     0x94B2, // scan_grid
