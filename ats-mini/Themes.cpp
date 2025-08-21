@@ -391,7 +391,7 @@ ColorTheme theme[] =
   {
     "PCG",
     0x0000, // bg
-    0xEEDF, // text
+    0xABFF, // text
     0xD69A, // text_muted
     0xF800, // text_warn
     0xD69A, // smeter_icon
