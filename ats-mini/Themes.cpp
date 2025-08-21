@@ -389,51 +389,51 @@ ColorTheme theme[] =
   },
 
   {
-    "Magenta",
-    0xA12B, // bg
-    0xFFFF, // text
-    0xFD95, // text_muted
-    0xFD00, // text_warn
-    0xC638, // smeter_icon
-    0xD3F2, // smeter_bar
-    0xFD95, // smeter_bar_plus
-    0x8829, // smeter_bar_empty
-    0x5005, // save_icon
-    0xC638, // stereo_icon
-    0x7007, // rf_icon
-    0xFD95, // rf_icon_conn
-    0xC638, // batt_voltage
-    0xC638, // batt_border
-    0xFD95, // batt_full
-    0x7007, // batt_low
-    0xA12B, // batt_charge
+    "PCG",
+    0x0000, // bg
+    0xEEDF, // text
+    0xD69A, // text_muted
+    0xF800, // text_warn
+    0xD69A, // smeter_icon
+    0x07E0, // smeter_bar
+    0xF800, // smeter_bar_plus
+    0x3186, // smeter_bar_empty
+    0xF800, // save_icon
+    0xD69A, // stereo_icon
+    0xF800, // rf_icon
+    0x07E0, // rf_icon_conn
+    0xFFFF, // batt_voltage
+    0xFFFF, // batt_border
+    0x07E0, // batt_full
+    0xF800, // batt_low
+    0x0000, // batt_charge
     0xFFE0, // batt_icon
-    0xC638, // band_text
-    0xC638, // mode_text
-    0xC638, // mode_border
-    0xA12B, // box_bg
-    0xC638, // box_border
-    0xC638, // box_text
-    0x7007, // box_off_bg
-    0xFD95, // box_off_text
-    0xA12B, // menu_bg
-    0x5005, // menu_border
+    0xD69A, // band_text
+    0xD69A, // mode_text
+    0xD69A, // mode_border
+    0x0000, // box_bg
+    0xD69A, // box_border
+    0xD69A, // box_text
+    0xF800, // box_off_bg
+    0xBEDF, // box_off_text
+    0x0000, // menu_bg
+    0xF800, // menu_border
     0xFFFF, // menu_hdr
     0xBEDF, // menu_item
-    0x5005, // menu_hl_bg
+    0x105B, // menu_hl_bg
     0xBEDF, // menu_hl_text
     0xBEDF, // menu_param
     0xFFFF, // freq_text
-    0xC638, // funit_text
-    0x5005, // freq_hl
-    0xFFFF, // freq_hl_sel
-    0xFD95, // rds_text
+    0xD69A, // funit_text
+    0xF800, // freq_hl
+    0xFFE0, // freq_hl_sel
+    0xD69A, // rds_text
     0xFFFF, // scale_text
-    0x5005, // scale_pointer
+    0xF800, // scale_pointer
     0xC638, // scale_line
-    0xD3F2, // scan_grid
-    0xD3F2, // scan_snr
-    0xFD95, // scan_rssi
+    0x94B2, // scan_grid
+    0x0659, // scan_snr
+    0x07E0, // scan_rssi
   },
 };
 
